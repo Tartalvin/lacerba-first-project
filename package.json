@@ -10,5 +10,8 @@
     "lacerba"
   ],
   "author": "alvin",
-  "license": "ISC"
+  "license": "ISC",
+  "repository": {
+    "url": "https://github.com/Tartalvin/lacerba-first-project"
+  }
 }
